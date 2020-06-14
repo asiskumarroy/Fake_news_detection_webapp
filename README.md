@@ -1,4 +1,5 @@
 # Fake_news_detection_webapp
+
 A webapp to detect if a given news article is fake or not.
 
 The python notebook is follows the four important preprocessing steps for performing NLP:
